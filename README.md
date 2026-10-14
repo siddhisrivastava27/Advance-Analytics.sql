@@ -69,4 +69,3 @@ The project uses advanced SQL techniques to transform raw sales data into meanin
 
 
 
-Skills: Excel | SQL | Power BI
